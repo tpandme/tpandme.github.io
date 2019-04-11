@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MrDo的博客</title>
+    <link>http://tpandme.github.io/</link>
+    <description>Recent content on MrDo的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>tpandme@163.com (唐鹏)</managingEditor>
+    <webMaster>tpandme@163.com (唐鹏)</webMaster>
+    
+        <atom:link href="http://tpandme.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
