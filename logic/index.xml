@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logics on 主页</title>
-    <link>https://example.com/logic/</link>
+    <link>tpandme.github.io/logic/</link>
     <description>Recent content in Logics on 主页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Apr 2019 08:19:06 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/logic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="tpandme.github.io/logic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>逻辑考题1</title>
-      <link>https://example.com/logic/logic1/</link>
+      <link>tpandme.github.io/logic/logic1/</link>
       <pubDate>Fri, 12 Apr 2019 08:19:06 +0800</pubDate>
       
-      <guid>https://example.com/logic/logic1/</guid>
+      <guid>tpandme.github.io/logic/logic1/</guid>
       <description> 1.将一个正整数分解质因数。例如：输入90,打印出90=2*3*3*5。
 2.有1、2、3、4四个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？请写一个函数将组合结果打印出来，并打印出总数
 3.有一对兔子，从出生后第3个月起每个月都生一对兔子，小兔子长到第三个月后每个月又生一对兔子，假如兔子都不死，请写一个函数可以传入具体月份，得到该月份一共有多少只兔子。（兔子只会是同月亲兄妹交配，不会乱伦）
@@ -31,10 +31,10 @@
     
     <item>
       <title>逻辑考题2</title>
-      <link>https://example.com/logic/logic2/</link>
+      <link>tpandme.github.io/logic/logic2/</link>
       <pubDate>Fri, 12 Apr 2019 08:19:06 +0800</pubDate>
       
-      <guid>https://example.com/logic/logic2/</guid>
+      <guid>tpandme.github.io/logic/logic2/</guid>
       <description> 1.一球从100米高度自由落下，每次落地后反跳回原高度的一半；再落下，求它在第10次落地时，共经多少米？第10次反弹多高？请写一个函数来计算并打印出来
 2.给定一个整数num，判断这个整数是否是2的N次方
 3.利用递归函数求任意整型值n的阶乘（n！）
@@ -51,10 +51,10 @@
     
     <item>
       <title>逻辑考题3</title>
-      <link>https://example.com/logic/logic3/</link>
+      <link>tpandme.github.io/logic/logic3/</link>
       <pubDate>Fri, 12 Apr 2019 08:19:06 +0800</pubDate>
       
-      <guid>https://example.com/logic/logic3/</guid>
+      <guid>tpandme.github.io/logic/logic3/</guid>
       <description> 1.已知一个矩形在平面坐标系内的四个顶点的坐标，写一个函数来判断一个点是否在矩形内部，矩形的边不与坐标轴平行
 2.已知texture的width和height，写一句代码来判断它能否被压缩为PVRTC格式（提示：该格式的图片长宽相等且长度为2的n次方）
 3.写一个函数，寻找两个字符串最大的公共子字符串。比如abcdefg和cdefgabc的最大公共子字符串为cdefg
