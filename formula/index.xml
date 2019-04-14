@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formulas on 主页</title>
+    <link>https://example.com/formula/</link>
+    <description>Recent content in Formulas on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2019 09:10:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/formula/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>常用数学物理公式</title>
+      <link>https://example.com/formula/formula/</link>
+      <pubDate>Fri, 12 Apr 2019 09:10:46 +0800</pubDate>
+      
+      <guid>https://example.com/formula/formula/</guid>
+      <description>三角函数，圆，矩形相交，自由落体等</description>
+    </item>
+    
+  </channel>
+</rss>

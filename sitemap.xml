@@ -3,49 +3,83 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tpandme.github.io/</loc>
+    <loc>https://example.com/summary/</loc>
     <lastmod>2019-04-12T11:07:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tpandme.github.io/posts/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2019-04-12T11:07:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tpandme.github.io/2019/04/12/%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://example.com/summary/page2/</loc>
     <lastmod>2019-04-12T11:07:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tpandme.github.io/2019/04/12/%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://example.com/summary/page1/</loc>
     <lastmod>2019-04-12T10:38:06+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tpandme.github.io/2019/04/12/%E5%B8%B8%E7%94%A8%E6%95%B0%E5%AD%A6%E7%89%A9%E7%90%86%E5%85%AC%E5%BC%8F/</loc>
+    <loc>https://example.com/formula/</loc>
     <lastmod>2019-04-12T09:10:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tpandme.github.io/2019/04/12/%E7%AE%97%E6%B3%95%E9%80%BB%E8%BE%91/</loc>
-    <lastmod>2019-04-12T08:19:06+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tpandme.github.io/2019/04/11/uml%E5%85%B3%E7%B3%BB%E8%AF%B4%E6%98%8E/</loc>
-    <lastmod>2019-04-11T12:31:02+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tpandme.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tpandme.github.io/tags/</loc>
+    <loc>https://example.com/formula/formula/</loc>
+    <lastmod>2019-04-12T09:10:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/intelligence/</loc>
+    <lastmod>2019-04-12T08:19:06+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/logic/</loc>
+    <lastmod>2019-04-12T08:19:06+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/intelligence/zhili1/</loc>
+    <lastmod>2019-04-12T08:19:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/logic/logic1/</loc>
+    <lastmod>2019-04-12T08:19:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/logic/logic2/</loc>
+    <lastmod>2019-04-12T08:19:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/logic/logic3/</loc>
+    <lastmod>2019-04-12T08:19:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/uml/uml/</loc>
+    <lastmod>2019-04-11T12:31:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/uml/</loc>
+    <lastmod>2019-04-11T12:31:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
     <priority>0</priority>
   </url>
   

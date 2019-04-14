@@ -1,61 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>主页</title>
-    <link>https://example.com/</link>
-    <description>Recent content on 主页</description>
+    <title>Logics on 主页</title>
+    <link>https://example.com/logic/</link>
+    <description>Recent content in Logics on 主页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2019 11:07:11 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2019 08:19:06 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/logic/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>第二阶段知识点总结</title>
-      <link>https://example.com/summary/page2/</link>
-      <pubDate>Fri, 12 Apr 2019 11:07:11 +0800</pubDate>
-      
-      <guid>https://example.com/summary/page2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>第一阶段学习总结</title>
-      <link>https://example.com/summary/page1/</link>
-      <pubDate>Fri, 12 Apr 2019 10:38:06 +0800</pubDate>
-      
-      <guid>https://example.com/summary/page1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>常用数学物理公式</title>
-      <link>https://example.com/formula/formula/</link>
-      <pubDate>Fri, 12 Apr 2019 09:10:46 +0800</pubDate>
-      
-      <guid>https://example.com/formula/formula/</guid>
-      <description>三角函数，圆，矩形相交，自由落体等</description>
-    </item>
-    
-    <item>
-      <title>智力题1</title>
-      <link>https://example.com/intelligence/zhili1/</link>
-      <pubDate>Fri, 12 Apr 2019 08:19:06 +0800</pubDate>
-      
-      <guid>https://example.com/intelligence/zhili1/</guid>
-      <description> 1.6个杯子排成一排，右边3杯有水，左边3杯没有水。只移动一个杯子，让有水的和没水的杯子完全间隔，该怎么移动？
-2.一个粗细均匀的长直管子,两端开口,里面有4个白球4个黑球,球的直径、两端开口的直径等于管子的内径,现在白球和黑球的排列是wwwwbbbb,要求不取出任何一个球,使得排列变为bbwwwwbb，应该如何操作？
-3.怎样种四颗树使得任意两棵树的距离相等？
-4.有两根不均匀分布的香，香烧完的时间是一个小时，你能用什么方法来确定一段15分钟的时间？
-5.你有两个罐子，分别装着50个红色的玻璃球和50个蓝色的玻璃球，随意拿起一个罐子，然后从里面拿出一个玻璃球，怎样最大程度地增加让自己拿到红球的机会？利用这种方式，拿到红球的几率多大？
-6.下列图形哪一个不同于其他图形？
-7.找出一个独特的。
-8.从给出的6个图形中，选出1个合适的填入空格：
-9.将下面的图形折成正方体，可以形成哪个图形？
-10.选出错误的图案。下图有9个网格，分别标有1A-3C，每个网格中的图案是它最上方和最左方网格中图案的集合。有一个网格中的图案是错误的，请找出来。
- </description>
-    </item>
     
     <item>
       <title>逻辑考题1</title>
@@ -121,15 +75,6 @@
 3).bool contain(Rectangle b) 判断矩形b是否被包含在当前矩形中;
 4).可选：Rectangle Rotate(p,angle) 将矩形按照点p旋转angle角度，并返回旋转后的矩形。
  </description>
-    </item>
-    
-    <item>
-      <title>UML关系说明</title>
-      <link>https://example.com/uml/uml/</link>
-      <pubDate>Thu, 11 Apr 2019 12:31:02 +0800</pubDate>
-      
-      <guid>https://example.com/uml/uml/</guid>
-      <description></description>
     </item>
     
   </channel>
