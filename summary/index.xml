@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Summaries on 主页</title>
+    <title>Summaries on MrTang博客</title>
     <link>tpandme.github.io/summary/</link>
-    <description>Recent content in Summaries on 主页</description>
+    <description>Recent content in Summaries on MrTang博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Apr 2019 11:07:11 +0800</lastBuildDate>
@@ -26,7 +26,42 @@
       <pubDate>Fri, 12 Apr 2019 10:38:06 +0800</pubDate>
       
       <guid>tpandme.github.io/summary/page1/</guid>
-      <description></description>
+      <description>脑图地址：
+第一周
+ VS使用入门
+ 快捷键
+ 注释代码 Ctrl+K Ctrl+C
+取消注释 Ctrl+K Ctrl+U
+上移代码 Alt+UpArrow
+下移代码 Alt+DownArrow
+导入命名空间 Alt+Shift+F10
+折叠代码 Ctrl+M Ctrl+M
+ 专业名词
+ IDE：集成开发环境（IDE，Integrated Development Environment ）是用于提供程序开发环境的应用程序，一般包括代码编辑器、编译器、调试器和图形用户界面等工具。集成了代码编写功能、分析功能、编译功能、调试功能等一体化的开发软件服务套。所有具备这一特性的软件或者软件套（组）都可以叫集成开发环境。如微软的Visual Studio系列
+CLR：CLR是公共语言运行库(Common Language Runtime)和Java虚拟机一样也是一个运行时环境，它负责资源管理（内存分配和垃圾收集等），并保证应用和底层操作系统之间必要的分离。CLR存在两种不同的翻译名称：公共语言运行库和公共语言运行时
+程序集：经由编译器编译得到的，供CLR进一步编译执行的那个中间产物，在WINDOWS系统中，它一般表现为·dll或者是·exe的格式，但是要注意，它们跟普通意义上的WIN32可执行程序是完全不同的东西，程序集必须依靠CLR才能顺利执行
+ 常用设置
+ 设置行号：工具——选项——文件编辑器——所有语言——行号
+设置字体：工具——选项——环境——字体和颜色
+ 注释
+ 1).//
+2)./* */
+3)./// 这种方式注释在函数或者类声明的上方，可以当别人在外部调用函数或者类时说明具体作用和参数涵义
+ 如何调试
+ 1)F9打断点，取消断电
+2)F10，下一步
+3)F11，下一句
+4)在调用堆栈窗口，可以看到代码的调用层级
+5)在调监视窗口，可以查看代码执行时变量的具体变化
+  C#
+ 基础概念
+ 常量：修饰符const
+语句和块：语句用分号隔开，块用{}包裹
+访问修饰符：3P（public、private、protected）
+ 计算机原理
+ 内存和硬盘const
+2进制
+位运算：位与&amp;amp;、位或|、异或^</description>
     </item>
     
   </channel>

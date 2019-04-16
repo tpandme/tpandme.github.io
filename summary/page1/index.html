@@ -32,7 +32,7 @@
 
   
   
-  <title>第一阶段学习总结 | 主页</title>
+  <title>第一阶段学习总结 | MrTang博客</title>
 </head>
 
   <body>
@@ -257,6 +257,19 @@
       
       
       
+      <a href="tpandme.github.io/info/" >
+        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+          <use xlink:href="#bookmark"></use>
+        </svg>
+        <span class="text">概念题</span>
+      </a>
+    </li>
+  
+    <li class="pattern">
+      
+      
+      
+      
       <a href="tpandme.github.io/logic/" >
         <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
           <use xlink:href="#bookmark"></use>
@@ -300,7 +313,417 @@
           
   <main id="main">
     <h1>第一阶段学习总结</h1>
-    <p><img src="/pic/第一阶段学习总结.png"/ width="2000" height="2000"></p>
+    <p>脑图地址：</p>
+
+<p><strong><font size=7>第一周</font></strong></p>
+
+<blockquote>
+<p><font size=6><b>VS使用入门</b></font></p>
+
+<blockquote>
+<p><font size=5><b>快捷键</b></font></p>
+
+<blockquote>
+<p>注释代码 Ctrl+K Ctrl+C<br><br>
+取消注释 Ctrl+K Ctrl+U<br><br>
+上移代码 Alt+UpArrow<br><br>
+下移代码 Alt+DownArrow<br><br>
+导入命名空间 Alt+Shift+F10<br><br>
+折叠代码 Ctrl+M Ctrl+M<br></p>
+</blockquote>
+
+<p><font size=5><b>专业名词</b></font><br></p>
+
+<blockquote>
+<p>IDE：集成开发环境（IDE，Integrated Development Environment ）是用于提供程序开发环境的应用程序，一般包括代码编辑器、编译器、调试器和图形用户界面等工具。集成了代码编写功能、分析功能、编译功能、调试功能等一体化的开发软件服务套。所有具备这一特性的软件或者软件套（组）都可以叫集成开发环境。如微软的Visual Studio系列<br><br>
+CLR：CLR是公共语言运行库(Common Language Runtime)和Java虚拟机一样也是一个运行时环境，它负责资源管理（内存分配和垃圾收集等），并保证应用和底层操作系统之间必要的分离。CLR存在两种不同的翻译名称：公共语言运行库和公共语言运行时<br><br>
+程序集：经由编译器编译得到的，供CLR进一步编译执行的那个中间产物，在WINDOWS系统中，它一般表现为·dll或者是·exe的格式，但是要注意，它们跟普通意义上的WIN32可执行程序是完全不同的东西，程序集必须依靠CLR才能顺利执行<br><br></p>
+</blockquote>
+
+<p><font size=5><b>常用设置</b></font><br></p>
+
+<blockquote>
+<p>设置行号：工具——选项——文件编辑器——所有语言——行号<br><br>
+设置字体：工具——选项——环境——字体和颜色<br><br></p>
+</blockquote>
+
+<p><font size=5><b>注释</b></font><br></p>
+
+<blockquote>
+<p>1).//<br>
+2)./* */<br>
+3)./// 这种方式注释在函数或者类声明的上方，可以当别人在外部调用函数或者类时说明具体作用和参数涵义</p>
+</blockquote>
+
+<p><font size=5><b>如何调试</b></font><br></p>
+
+<blockquote>
+<p>1)F9打断点，取消断电<br>
+2)F10，下一步<br>
+3)F11，下一句<br>
+4)在调用堆栈窗口，可以看到代码的调用层级<br>
+5)在调监视窗口，可以查看代码执行时变量的具体变化<br></p>
+</blockquote>
+</blockquote>
+
+<p><font size=6><b>C#</b></font><br></p>
+
+<blockquote>
+<p><font size=5><b>基础概念</b></font><br></p>
+
+<blockquote>
+<p>常量：修饰符const<br><br>
+语句和块：语句用分号隔开，块用{}包裹<br><br>
+访问修饰符：3P（public、private、protected）<br><br></p>
+</blockquote>
+
+<p><font size=5><b>计算机原理</b></font><br></p>
+
+<blockquote>
+<p>内存和硬盘const<br><br>
+2进制<br><br>
+位运算：位与&amp;、位或|、异或^<br><br></p>
+</blockquote>
+
+<p><font size=5><b>命名空间</b></font><br></p>
+
+<blockquote>
+<p>namespace<br></p>
+
+<blockquote>
+<p>命名空间就像是装类的一个箱子，知道这个箱子才能找到某个类<br><br>
+有效的避免同个工程中出现同名类<br><br></p>
+</blockquote>
+</blockquote>
+
+<p><font size=5><b>变量相关</b></font><br></p>
+
+<blockquote>
+<p>数据类型，需要掌握数据类型所占字节数<br></p>
+
+<p>运算符<br></p>
+
+<p><b>数据转换</b><br></p>
+
+<blockquote>
+<p>隐式转换<br></p>
+
+<p>显示转换：Parse和Convert<br></p>
+</blockquote>
+
+<p><b>命名规范</b><br></p>
+
+<blockquote>
+<p>1-所有命名 都尽量用对应功能的 英文单词 单词太长 用缩写 不会查词典 (实在没有单词能够形容，用拼音)<br></p>
+
+<p>2-类名 函数名 首字母大写  ep: a. class HeroObject  b. void EatShit()<br></p>
+
+<p>3-变量名 首字母小写 第二个单词首字母大写  ep; myAge  gameResult  临时变量 除了循环等 都尽量不要用 i  a  b  d g<br></p>
+
+<p>4-枚举命名  全大写 用E_开头   ep: enum E_MUSIC_TYPE{ TYPE_BACK_MUSIC, TYPE_SOUND, }<br></p>
+
+<p>5-全局静态  全大写 用S_开头   ep: public static float S_G_SPEED = 9.8f;<br></p>
+
+<p>6-额外变量命名规范</p>
+
+<p>7-接口命名 前面加上 大写的I</p>
+</blockquote>
+</blockquote>
+
+<p><font size=5><b>条件语句</b></font></p>
+
+<blockquote>
+<p>if..else if..else..</p>
+
+<p>switch</p>
+</blockquote>
+
+<p><font size=5><b>循环语句</b></font></p>
+
+<blockquote>
+<p>for循环</p>
+
+<p>while循环</p>
+
+<p>do{}while()循环</p>
+
+<p>foreach</p>
+</blockquote>
+
+<p><font size=5><b>流程控制关键词</b></font><br></p>
+
+<blockquote>
+<p>break</p>
+
+<p>continue</p>
+
+<p>return</p>
+</blockquote>
+</blockquote>
+</blockquote>
+
+<p><strong><font size=7>第二周</font></strong></p>
+
+<blockquote>
+<p><font size=6><b>复杂数据类型</b></font></p>
+
+<blockquote>
+<p><font size=5>枚举</font></p>
+
+<p><font size=5>结构体</font></p>
+
+<p><font size=5><b>数组</b></font></p>
+
+<blockquote>
+<p>一维数组[]</p>
+
+<p>二维数组[,]</p>
+
+<p>交错数组[][]</p>
+</blockquote>
+</blockquote>
+
+<p><font size=6><b>函数</b></font></p>
+
+<blockquote>
+<p><font size=5>返回值</font></p>
+
+<p><font size=5>参数</font></p>
+
+<p><font size=5>可变参数：params</font></p>
+
+<p><font size=5>递归</font></p>
+
+<p><font size=5>重载</font></p>
+</blockquote>
+
+<p><font size=6><b>值类型和引用类型</b></font></p>
+
+<p><font size=6><b>ref out</b></font></p>
+
+<blockquote>
+<p><font size=5>ref：有进有出，必先初始化进入值</font></p>
+
+<p><font size=5>out：只出不进，可不初始化进入值</font></p>
+
+<p><font size=5>注意：不能同时重载out和ref；out必须在函数内部赋值</font></p>
+</blockquote>
+</blockquote>
+
+<p><strong><font size=7>第三周</font></strong></p>
+
+<blockquote>
+<p><font size=6><b>面向对象</b></font></p>
+
+<blockquote>
+<p><font size=5>构造函数</font></p>
+
+<p><font size=5>析构函数</font></p>
+
+<p><font size=5><b>三大特性</b></font></p>
+
+<blockquote>
+<p><b>封装</b></p>
+
+<blockquote>
+<p>成员变量<br>
+属性<br>
+方法<br>
+this<br></p>
+</blockquote>
+
+<p><b>继承</b></p>
+
+<blockquote>
+<p><b>密封类</b></p>
+
+<blockquote>
+<p>1.不可被继承<br>
+2.不可和abstract抽象同时使用<br>
+3.不可写virtual虚方法<br></p>
+</blockquote>
+
+<p><b>抽象类</b></p>
+
+<blockquote>
+<p>1.不能被实例化<br>
+3.一般用作基类<br>
+4.继承抽象类时，抽象类和子类都要有public关键字<br>
+5.虽然抽象类不能被实例化 但是它可以用来指向 子类 的引用<br>
+6.抽象类中可以申明不是抽象方法的方法，可以具体实现<br>
+7.抽象类中可以申明各种成员变量<br></p>
+</blockquote>
+
+<p><b>密封方法</b></p>
+
+<blockquote>
+<p>1.不可被子类重写<br>
+2.密封方法必须在sealed跟上override关键字<br></p>
+</blockquote>
+
+<p><b>抽象方法</b></p>
+
+<blockquote>
+<p>1.抽象方法只能在抽象类里面申明、<br>
+2.抽象方法 在申明时 不能被实现(不能有函数体)<br>
+3.继承了抽象类 那么必须实现抽象类中的抽象方法<br>
+4.实现抽象方法时 需要写 override 关键字<br>
+5.抽象关键字不能和virtaul同时使用<br></p>
+</blockquote>
+
+<p><b>里氏转换</b></p>
+
+<blockquote>
+<p>面向对象设计的基本原则之一。通俗理解：就是子类对象可以赋值给基类对象，基类对象不能赋值给子类对象</p>
+
+<p>is 和 as</p>
+</blockquote>
+</blockquote>
+
+<p><b>多态</b></p>
+
+<blockquote>
+<p>3P + vob</p>
+</blockquote>
+</blockquote>
+
+<p><font size=5><b>静态</b></font></p>
+
+<blockquote>
+<p>静态关键词，用static声明的变量和方法，在程序一开始运行就会分配内存空间，程序结束时才会释放。具有唯一性</p>
+</blockquote>
+
+<p><font size=5><b>接口</b></font></p>
+
+<blockquote>
+<p>1.接口中的方法不能在接口中被实现<br>
+2.接口中不能有成员变量<br>
+3.接口中不能有实现了的方法<br>
+4.类可以继承多个接口<br>
+5.接口 可以 继承接口 但是不能继承类 继承了接口 也不用实现方法<br>
+6.不能被实例华<br>
+7.接口命名规范 用I字母开头<br>
+8.实现接口方法时 需要加public 关键字<br></p>
+</blockquote>
+
+<p><font size=5><b>索引器</b></font></p>
+
+<blockquote>
+<p>访问修饰符 数据类型 this[索引值]{ get{return} set{value} }<br></p>
+</blockquote>
+
+<p><font size=5><b>运算符重载</b></font></p>
+
+<blockquote>
+<p>访问修饰符 static 返回类型 operator 运算符(对应参数){ 对应返回值 }<br></p>
+</blockquote>
+</blockquote>
+
+<p><font size=6><b>考试算法</b></font></p>
+
+<blockquote>
+<p><font size=5>杨辉三角</font></p>
+
+<p><font size=5><b>斐波那契</b></font></p>
+
+<blockquote>
+<p>斐波那契数列（Fibonacci sequence），又称黄金分割数列、因数学家列昂纳多·斐波那契（Leonardoda Fibonacci[1]  ）以兔子繁殖为例子而引入<br>
+故又称为“兔子数列”，指的是这样一个数列：0、1、1、2、3、5、8、13、21、34、……<br>在数学上，斐波纳契数列以如下被以递归的方法定义：F（0）=0，F（1）=1，F（n）=F(n-1)+F(n-2)（n≥2，n∈N*）<br>
+斐波那契数列指的是这样一个数列 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233，377，610，987，1597，2584，4181，6765，10946，17711，28657，46368。<br>
+这个数列从第3项开始，每一项都等于前两项之和。<br></p>
+</blockquote>
+
+<p><font size=5>递归：两面镜子的对照，自己调自己</font></p>
+
+<p><font size=5>冒泡：两个循环嵌套</font></p>
+</blockquote>
+</blockquote>
+
+<p><strong><font size=7>第四周</font></strong></p>
+
+<blockquote>
+<p><font size=6><b>数据结构</b></font></p>
+
+<blockquote>
+<p><b>线性表</b></p>
+
+<blockquote>
+<p>顺序存储</p>
+
+<p><b>链式存储</b></p>
+
+<blockquote>
+<blockquote>
+<p>单链表</p>
+
+<p>循环链表</p>
+
+<p>双向链表</p>
+</blockquote>
+</blockquote>
+</blockquote>
+
+<p><b>树</b></p>
+
+<p><b>散列</b></p>
+
+<p><b>栈和队列</b></p>
+
+<blockquote>
+<p>栈：先进后出</p>
+
+<p>队列：先进先出</p>
+</blockquote>
+</blockquote>
+
+<p><font size=6><b>设计模式</b></font></p>
+
+<blockquote>
+<p>单例模式</p>
+
+<p>观察者模式</p>
+
+<p>工厂模式</p>
+</blockquote>
+
+<p><font size=6><b>多线程</b></font></p>
+
+<p><font size=6><b>泛型</b></font></p>
+
+<blockquote>
+<p>看见尖括号&lt;&gt;多半是泛型</p>
+</blockquote>
+
+<p><font size=6><b>泛型集合</b></font></p>
+
+<blockquote>
+<p>List</p>
+
+<p>Dictionary</p>
+</blockquote>
+
+<p><font size=6><b>委托和事件</b></font></p>
+
+<blockquote>
+<p>委托关键字： delegata</p>
+
+<p>事件关键字： event</p>
+</blockquote>
+
+<p><font size=6><b>文件读取</b></font></p>
+
+<blockquote>
+<p>Directory</p>
+
+<p>File</p>
+
+<p>FileStream</p>
+
+<p>StreamReader</p>
+
+<p>StreamWriter</p>
+</blockquote>
+</blockquote>
 
   </main>
 
@@ -312,7 +735,7 @@
     </label>
   </div>
   
-    Made with <a href="https://gohugo.io/">Hugo</a>. Themed by <a href="https://github.com/zwbetz-gh/cupper-hugo-theme">Cupper</a>. Deployed to <a href="https://www.netlify.com/">Netlify</a>.
+    Made with <a href="https://gohugo.io/">Hugo</a>.The Author is 唐鹏.
   
 </footer>
 

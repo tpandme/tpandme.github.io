@@ -3,15 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>tpandme.github.io/3d/</loc>
+    <lastmod>2019-04-12T11:07:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>tpandme.github.io/c/</loc>
+    <lastmod>2019-04-12T11:07:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>tpandme.github.io/lua/</loc>
+    <lastmod>2019-04-12T11:07:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>tpandme.github.io/shader/</loc>
+    <lastmod>2019-04-12T11:07:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>tpandme.github.io/summary/</loc>
     <lastmod>2019-04-12T11:07:11+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>tpandme.github.io/</loc>
+    <loc>tpandme.github.io/unity3d/</loc>
     <lastmod>2019-04-12T11:07:11+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>tpandme.github.io/3d/day1/</loc>
+    <lastmod>2019-04-12T11:07:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tpandme.github.io/c/day1/</loc>
+    <lastmod>2019-04-12T11:07:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tpandme.github.io/lua/day1/</loc>
+    <lastmod>2019-04-12T11:07:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tpandme.github.io/unity3d/day1/</loc>
+    <lastmod>2019-04-12T11:07:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tpandme.github.io/shader/day1/</loc>
+    <lastmod>2019-04-12T11:07:11+08:00</lastmod>
   </url>
   
   <url>
@@ -36,6 +85,12 @@
   </url>
   
   <url>
+    <loc>tpandme.github.io/info/</loc>
+    <lastmod>2019-04-12T08:19:06+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>tpandme.github.io/intelligence/</loc>
     <lastmod>2019-04-12T08:19:06+08:00</lastmod>
     <priority>0</priority>
@@ -49,6 +104,11 @@
   
   <url>
     <loc>tpandme.github.io/intelligence/zhili1/</loc>
+    <lastmod>2019-04-12T08:19:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>tpandme.github.io/info/info1/</loc>
     <lastmod>2019-04-12T08:19:06+08:00</lastmod>
   </url>
   
@@ -76,6 +136,11 @@
     <loc>tpandme.github.io/uml/</loc>
     <lastmod>2019-04-11T12:31:02+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>tpandme.github.io/</loc>
+    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
   </url>
   
   <url>

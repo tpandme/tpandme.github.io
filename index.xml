@@ -1,15 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>主页</title>
+    <title>MrTang的博客 on MrTang博客</title>
     <link>tpandme.github.io/</link>
-    <description>Recent content on 主页</description>
+    <description>Recent content in MrTang的博客 on MrTang博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Apr 2019 11:07:11 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate>
     
 	<atom:link href="tpandme.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>待更新</title>
+      <link>tpandme.github.io/3d/day1/</link>
+      <pubDate>Fri, 12 Apr 2019 11:07:11 +0800</pubDate>
+      
+      <guid>tpandme.github.io/3d/day1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>待更新</title>
+      <link>tpandme.github.io/c/day1/</link>
+      <pubDate>Fri, 12 Apr 2019 11:07:11 +0800</pubDate>
+      
+      <guid>tpandme.github.io/c/day1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>待更新</title>
+      <link>tpandme.github.io/lua/day1/</link>
+      <pubDate>Fri, 12 Apr 2019 11:07:11 +0800</pubDate>
+      
+      <guid>tpandme.github.io/lua/day1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>待更新</title>
+      <link>tpandme.github.io/unity3d/day1/</link>
+      <pubDate>Fri, 12 Apr 2019 11:07:11 +0800</pubDate>
+      
+      <guid>tpandme.github.io/unity3d/day1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>待更新</title>
+      <link>tpandme.github.io/shader/day1/</link>
+      <pubDate>Fri, 12 Apr 2019 11:07:11 +0800</pubDate>
+      
+      <guid>tpandme.github.io/shader/day1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>第二阶段知识点总结</title>
@@ -26,7 +71,42 @@
       <pubDate>Fri, 12 Apr 2019 10:38:06 +0800</pubDate>
       
       <guid>tpandme.github.io/summary/page1/</guid>
-      <description></description>
+      <description>脑图地址：
+第一周
+ VS使用入门
+ 快捷键
+ 注释代码 Ctrl+K Ctrl+C
+取消注释 Ctrl+K Ctrl+U
+上移代码 Alt+UpArrow
+下移代码 Alt+DownArrow
+导入命名空间 Alt+Shift+F10
+折叠代码 Ctrl+M Ctrl+M
+ 专业名词
+ IDE：集成开发环境（IDE，Integrated Development Environment ）是用于提供程序开发环境的应用程序，一般包括代码编辑器、编译器、调试器和图形用户界面等工具。集成了代码编写功能、分析功能、编译功能、调试功能等一体化的开发软件服务套。所有具备这一特性的软件或者软件套（组）都可以叫集成开发环境。如微软的Visual Studio系列
+CLR：CLR是公共语言运行库(Common Language Runtime)和Java虚拟机一样也是一个运行时环境，它负责资源管理（内存分配和垃圾收集等），并保证应用和底层操作系统之间必要的分离。CLR存在两种不同的翻译名称：公共语言运行库和公共语言运行时
+程序集：经由编译器编译得到的，供CLR进一步编译执行的那个中间产物，在WINDOWS系统中，它一般表现为·dll或者是·exe的格式，但是要注意，它们跟普通意义上的WIN32可执行程序是完全不同的东西，程序集必须依靠CLR才能顺利执行
+ 常用设置
+ 设置行号：工具——选项——文件编辑器——所有语言——行号
+设置字体：工具——选项——环境——字体和颜色
+ 注释
+ 1).//
+2)./* */
+3)./// 这种方式注释在函数或者类声明的上方，可以当别人在外部调用函数或者类时说明具体作用和参数涵义
+ 如何调试
+ 1)F9打断点，取消断电
+2)F10，下一步
+3)F11，下一句
+4)在调用堆栈窗口，可以看到代码的调用层级
+5)在调监视窗口，可以查看代码执行时变量的具体变化
+  C#
+ 基础概念
+ 常量：修饰符const
+语句和块：语句用分号隔开，块用{}包裹
+访问修饰符：3P（public、private、protected）
+ 计算机原理
+ 内存和硬盘const
+2进制
+位运算：位与&amp;amp;、位或|、异或^</description>
     </item>
     
     <item>
@@ -54,6 +134,25 @@
 8.从给出的6个图形中，选出1个合适的填入空格：
 9.将下面的图形折成正方体，可以形成哪个图形？
 10.选出错误的图案。下图有9个网格，分别标有1A-3C，每个网格中的图案是它最上方和最左方网格中图案的集合。有一个网格中的图案是错误的，请找出来。
+ </description>
+    </item>
+    
+    <item>
+      <title>概念题1</title>
+      <link>tpandme.github.io/info/info1/</link>
+      <pubDate>Fri, 12 Apr 2019 08:19:06 +0800</pubDate>
+      
+      <guid>tpandme.github.io/info/info1/</guid>
+      <description> 1.结构体和类的区别？
+2.值类型和引用类型的区别？
+3.接口和类的区别？
+4.请写出bool、byte、int、float、double、long、short、uint、ulong、ushort、char、string这些数据类型的对应字节数
+5.委托和事件的区别？
+6.泛型的好处？
+7.C#中类是否可以多继承？
+8.请写出静态类的特点
+9.请写出至少4个字符串的常用方法
+10.简单描述C#的内存回收机制？
  </description>
     </item>
     
@@ -129,7 +228,21 @@
       <pubDate>Thu, 11 Apr 2019 12:31:02 +0800</pubDate>
       
       <guid>tpandme.github.io/uml/uml/</guid>
-      <description></description>
+      <description> 包
+ 命名空间
+ 继承
+ 面向对象中的继承关系
+ 接口实现
+ 继承接口
+ 依赖关系
+ 一个类A使用到了另一个类B，而这种使用关系是具有偶然性的、临时性的、非常弱的，但是B类的变化会影响到A；比如某人要过河，需要借用一条船，此时人与船之间的关系就是依赖；
+ 直接关联
+ 体现的是两个类、或者类与接口之间语义级别的一种强依赖关系，比如我和我的朋友；这种关系比依赖更强、不存在依赖关系的偶然性、关系也不是临时性的，一般是长期性的，而且双方的关系一般是平等的、关联可以是单向、双向的；表现在代码层面，为被关联类B以类属性的形式出现在关联类A中，也可能是关联类A引用了一个类型为被关联类B的全局变量；
+ 聚合
+ 聚合是关联关系的一种特例，他体现的是整体与部分、拥有的关系，即has-a的关系，此时整体与部分之间是可分离的，他们可以具有各自的生命周期，部分可以属于多个整体对象，也可以为多个整体对象共享；比如计算机与CPU、公司与员工的关系等；表现在代码层面，和关联关系是一致的，只能从语义级别来区分；
+ 复合
+ 是关联关系的一种特例，他体现的是一种contains-a的关系，这种关系比聚合更强，也称为强聚合；他同样体现整体与部分间的关系，但此时整体与部分是不可分的，整体的生命周期结束也就意味着部分的生命周期结束；比如你和你的大脑；表现在代码层面，和关联关系是一致的，只能从语义级别来区分；
+  </description>
     </item>
     
   </channel>
